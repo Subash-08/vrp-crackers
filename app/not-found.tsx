@@ -1,0 +1,2 @@
+import {SiteLink as Link} from '@/components/vrp/site-link';
+export default function NotFound(){return <main className="not-found"><img src="/assets/vrp-logo.webp" width="88" height="88" alt="VRP Crackers"/><p className="eyebrow">404 · PAGE NOT FOUND</p><h1>Let’s get you back<br/>to the collection.</h1><p>This page isn’t in our catalogue.</p><Link className="btn primary" href="/crackers">Explore Crackers</Link><Link href="/">Back to Home</Link></main>}

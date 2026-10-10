@@ -1,0 +1,3016 @@
+[
+  {
+    "id": "product-001",
+    "slug": "product-001-2-inch-kuruvi",
+    "categoryId": "kuruvi-vedi",
+    "name": {
+      "ta": "2 ¾\" குருவி",
+      "en": "2¾ inch Kuruvi"
+    },
+    "sourceName": "2¾ inch Kuruvi",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 10,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 1,
+    "sourceReference": "sheet-row-001"
+  },
+  {
+    "id": "product-002",
+    "slug": "product-002-3-inch-lakshmi",
+    "categoryId": "kuruvi-vedi",
+    "name": {
+      "ta": "3 ¼\" லட்சுமி",
+      "en": "3¼ inch Lakshmi"
+    },
+    "sourceName": "3¼ inch Lakshmi",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 23,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 2,
+    "sourceReference": "sheet-row-002"
+  },
+  {
+    "id": "product-003",
+    "slug": "product-003-4-inch-lakshmi",
+    "categoryId": "kuruvi-vedi",
+    "name": {
+      "ta": "4\" லட்சுமி",
+      "en": "4 inch Lakshmi"
+    },
+    "sourceName": "4 inch Lakshmi",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 33,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 3,
+    "sourceReference": "sheet-row-003"
+  },
+  {
+    "id": "product-004",
+    "slug": "product-004-5-inch-deluxe",
+    "categoryId": "kuruvi-vedi",
+    "name": {
+      "ta": "5\" கோல்டு",
+      "en": "5 inch Deluxe"
+    },
+    "sourceName": "5 inch Deluxe",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 46,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 4,
+    "sourceReference": "sheet-row-004"
+  },
+  {
+    "id": "product-005",
+    "slug": "product-005-5-inch-kumari",
+    "categoryId": "kuruvi-vedi",
+    "name": {
+      "ta": "5\" பூமி",
+      "en": "5 inch Kumari"
+    },
+    "sourceName": "5 inch Kumari",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 72,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 5,
+    "sourceReference": "sheet-row-005"
+  },
+  {
+    "id": "product-006",
+    "slug": "product-006-6-inch-bahubali",
+    "categoryId": "kuruvi-vedi",
+    "name": {
+      "ta": "6\" பாகுபலி",
+      "en": "6 inch Bahubali"
+    },
+    "sourceName": "6 inch Bahubali",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 78,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 6,
+    "sourceReference": "sheet-row-006"
+  },
+  {
+    "id": "product-007",
+    "slug": "product-007-6-inch-deluxe",
+    "categoryId": "kuruvi-vedi",
+    "name": {
+      "ta": "6\" கோல்டு (VPM)",
+      "en": "6 inch Deluxe (VPM)"
+    },
+    "sourceName": "6 inch Deluxe (VPM)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 98,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 7,
+    "sourceReference": "sheet-row-007"
+  },
+  {
+    "id": "product-008",
+    "slug": "product-008-28-giant",
+    "categoryId": "giant-crackers",
+    "name": {
+      "ta": "28 ஜெய்பிண்ட்",
+      "en": "28 Giant"
+    },
+    "sourceName": "28 Giant",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 26,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 8,
+    "sourceReference": "sheet-row-008"
+  },
+  {
+    "id": "product-009",
+    "slug": "product-009-56-giant",
+    "categoryId": "giant-crackers",
+    "name": {
+      "ta": "56 ஜெய்பிண்ட்",
+      "en": "56 Giant"
+    },
+    "sourceName": "56 Giant",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 65,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 9,
+    "sourceReference": "sheet-row-009"
+  },
+  {
+    "id": "product-010",
+    "slug": "product-010-56-giant-metro",
+    "categoryId": "giant-crackers",
+    "name": {
+      "ta": "56 ஜெய்பிண்ட் (மெட்ரோ)",
+      "en": "56 Giant Metro"
+    },
+    "sourceName": "56 Giant Metro",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 78,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 10,
+    "sourceReference": "sheet-row-010"
+  },
+  {
+    "id": "product-011",
+    "slug": "product-011-24-deluxe",
+    "categoryId": "giant-crackers",
+    "name": {
+      "ta": "24 டீலக்ஸ்",
+      "en": "24 Deluxe"
+    },
+    "sourceName": "24 Deluxe",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 78,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 11,
+    "sourceReference": "sheet-row-011"
+  },
+  {
+    "id": "product-012",
+    "slug": "product-012-50-deluxe",
+    "categoryId": "giant-crackers",
+    "name": {
+      "ta": "50 டீலக்ஸ்",
+      "en": "50 Deluxe"
+    },
+    "sourceName": "50 Deluxe",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 156,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 12,
+    "sourceReference": "sheet-row-012"
+  },
+  {
+    "id": "product-013",
+    "slug": "product-013-24-deluxe-metro",
+    "categoryId": "giant-crackers",
+    "name": {
+      "ta": "24 டீலக்ஸ் (மெட்ரோ)",
+      "en": "24 Deluxe Metro"
+    },
+    "sourceName": "24 Deluxe Metro",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 98,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 13,
+    "sourceReference": "sheet-row-013"
+  },
+  {
+    "id": "product-014",
+    "slug": "product-014-50-deluxe-metro",
+    "categoryId": "giant-crackers",
+    "name": {
+      "ta": "50 டீலக்ஸ் (மெட்ரோ)",
+      "en": "50 Deluxe Metro"
+    },
+    "sourceName": "50 Deluxe Metro",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 195,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 14,
+    "sourceReference": "sheet-row-014"
+  },
+  {
+    "id": "product-015",
+    "slug": "product-015-3-ft-chorsa",
+    "categoryId": "chorsa",
+    "name": {
+      "ta": "1 ½ அடி சாட்டை",
+      "en": "3½ ft Chorsa"
+    },
+    "sourceName": "3½ ft Chorsa",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 52,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 15,
+    "sourceReference": "sheet-row-015"
+  },
+  {
+    "id": "product-016",
+    "slug": "product-016-4-ft-chorsa",
+    "categoryId": "chorsa",
+    "name": {
+      "ta": "4 அடி சாட்டை",
+      "en": "4 ft Chorsa"
+    },
+    "sourceName": "4 ft Chorsa",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 117,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 16,
+    "sourceReference": "sheet-row-016"
+  },
+  {
+    "id": "product-017",
+    "slug": "product-017-100-wala",
+    "categoryId": "wala",
+    "name": {
+      "ta": "100 வாணா",
+      "en": "100 Wala"
+    },
+    "sourceName": "100 Wala",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 78,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 17,
+    "sourceReference": "sheet-row-017"
+  },
+  {
+    "id": "product-018",
+    "slug": "product-018-1000-wala",
+    "categoryId": "wala",
+    "name": {
+      "ta": "1000 வாணா",
+      "en": "1000 Wala"
+    },
+    "sourceName": "1000 Wala",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 323,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 18,
+    "sourceReference": "sheet-row-018"
+  },
+  {
+    "id": "product-019",
+    "slug": "product-019-1000-colour-wala",
+    "categoryId": "wala",
+    "name": {
+      "ta": "1000 வாணா ஸ்பெஷல் (VPM)",
+      "en": "1000 Colour Wala (VPM)"
+    },
+    "sourceName": "1000 Colour Wala (VPM)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 585,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 19,
+    "sourceReference": "sheet-row-019"
+  },
+  {
+    "id": "product-020",
+    "slug": "product-020-2000-wala",
+    "categoryId": "wala",
+    "name": {
+      "ta": "2000 வாணா",
+      "en": "2000 Wala"
+    },
+    "sourceName": "2000 Wala",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 585,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 20,
+    "sourceReference": "sheet-row-020"
+  },
+  {
+    "id": "product-021",
+    "slug": "product-021-2000-colour-wala",
+    "categoryId": "wala",
+    "name": {
+      "ta": "2000 வாணா ஸ்பெஷல் (VPM)",
+      "en": "2000 Colour Wala (VPM)"
+    },
+    "sourceName": "2000 Colour Wala (VPM)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 1170,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 21,
+    "sourceReference": "sheet-row-021"
+  },
+  {
+    "id": "product-022",
+    "slug": "product-022-5000-wala",
+    "categoryId": "wala",
+    "name": {
+      "ta": "5000 வாணா",
+      "en": "5000 Wala"
+    },
+    "sourceName": "5000 Wala",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 1560,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 22,
+    "sourceReference": "sheet-row-022"
+  },
+  {
+    "id": "product-023",
+    "slug": "product-023-10000-wala",
+    "categoryId": "wala",
+    "name": {
+      "ta": "10000 வாணா",
+      "en": "10000 Wala"
+    },
+    "sourceName": "10000 Wala",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 3120,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 23,
+    "sourceReference": "sheet-row-023"
+  },
+  {
+    "id": "product-024",
+    "slug": "product-024-50-bijili",
+    "categoryId": "bijili",
+    "name": {
+      "ta": "50 பத்திலி (Nadivel)",
+      "en": "50 Bijili (Nadivel)"
+    },
+    "sourceName": "50 Bijili (Nadivel)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 13,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 24,
+    "sourceReference": "sheet-row-024"
+  },
+  {
+    "id": "product-025",
+    "slug": "product-025-50-bijili",
+    "categoryId": "bijili",
+    "name": {
+      "ta": "50 பத்திலி (VPM)",
+      "en": "50 Bijili (VPM)"
+    },
+    "sourceName": "50 Bijili (VPM)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 33,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 25,
+    "sourceReference": "sheet-row-025"
+  },
+  {
+    "id": "product-026",
+    "slug": "product-026-50-bijili",
+    "categoryId": "bijili",
+    "name": {
+      "ta": "50 பத்திலி",
+      "en": "50 Bijili"
+    },
+    "sourceName": "50 Bijili",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 104,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 26,
+    "sourceReference": "sheet-row-026"
+  },
+  {
+    "id": "product-027",
+    "slug": "product-027-75-bijili",
+    "categoryId": "bijili",
+    "name": {
+      "ta": "75 பத்திலி",
+      "en": "75 Bijili"
+    },
+    "sourceName": "75 Bijili",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 130,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 27,
+    "sourceReference": "sheet-row-027"
+  },
+  {
+    "id": "product-028",
+    "slug": "product-028-100-bijili",
+    "categoryId": "bijili",
+    "name": {
+      "ta": "100 பத்திலி (Vadivel)",
+      "en": "100 Bijili (Nadivel)"
+    },
+    "sourceName": "100 Bijili (Nadivel)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 65,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 28,
+    "sourceReference": "sheet-row-028"
+  },
+  {
+    "id": "product-029",
+    "slug": "product-029-100-bijili",
+    "categoryId": "bijili",
+    "name": {
+      "ta": "100 பத்திலி",
+      "en": "100 Bijili"
+    },
+    "sourceName": "100 Bijili",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 104,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 29,
+    "sourceReference": "sheet-row-029"
+  },
+  {
+    "id": "product-030",
+    "slug": "product-030-100-wala-bijili",
+    "categoryId": "bijili",
+    "name": {
+      "ta": "100 வலி பத்திலி (அசோகன்)",
+      "en": "100 Wala Bijili"
+    },
+    "sourceName": "100 Wala Bijili",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pkt"
+    },
+    "rate": 130,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 30,
+    "sourceReference": "sheet-row-030"
+  },
+  {
+    "id": "product-031",
+    "slug": "product-031-flower-pots-small",
+    "categoryId": "flower-pots",
+    "name": {
+      "ta": "பூச்சட்டி சிறியது",
+      "en": "Flower Pots Small"
+    },
+    "sourceName": "Flower Pots Small",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 78,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 31,
+    "sourceReference": "sheet-row-031"
+  },
+  {
+    "id": "product-032",
+    "slug": "product-032-flower-pots-big",
+    "categoryId": "flower-pots",
+    "name": {
+      "ta": "பூச்சட்டி பெரியது",
+      "en": "Flower Pots Big"
+    },
+    "sourceName": "Flower Pots Big",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 104,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 32,
+    "sourceReference": "sheet-row-032"
+  },
+  {
+    "id": "product-033",
+    "slug": "product-033-flower-pots-special",
+    "categoryId": "flower-pots",
+    "name": {
+      "ta": "பூச்சட்டி ஸ்பெஷல்",
+      "en": "Flower Pots Special"
+    },
+    "sourceName": "Flower Pots Special",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 182,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 33,
+    "sourceReference": "sheet-row-033"
+  },
+  {
+    "id": "product-034",
+    "slug": "product-034-flower-pots-super",
+    "categoryId": "flower-pots",
+    "name": {
+      "ta": "பூச்சட்டி அசோகா",
+      "en": "Flower Pots Super"
+    },
+    "sourceName": "Flower Pots Super",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 247,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 34,
+    "sourceReference": "sheet-row-034"
+  },
+  {
+    "id": "product-035",
+    "slug": "product-035-flower-pots-colour-koti",
+    "categoryId": "flower-pots",
+    "name": {
+      "ta": "பூச்சட்டி கலர்கோட்டி",
+      "en": "Flower Pots Colour Koti"
+    },
+    "sourceName": "Flower Pots Colour Koti",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 455,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 35,
+    "sourceReference": "sheet-row-035"
+  },
+  {
+    "id": "product-036",
+    "slug": "product-036-flower-pots-colour-king",
+    "categoryId": "flower-pots",
+    "name": {
+      "ta": "பூச்சட்டி கலர்கோட்டி (King)",
+      "en": "Flower Pots Colour King"
+    },
+    "sourceName": "Flower Pots Colour King",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 507,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 36,
+    "sourceReference": "sheet-row-036"
+  },
+  {
+    "id": "product-037",
+    "slug": "product-037-flower-pots-mega-colour-deluxe",
+    "categoryId": "flower-pots",
+    "name": {
+      "ta": "பூச்சட்டி மெகா கலர் டீலக்ஸ்",
+      "en": "Flower Pots Mega Colour Deluxe"
+    },
+    "sourceName": "Flower Pots Mega Colour Deluxe",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 507,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 37,
+    "sourceReference": "sheet-row-037"
+  },
+  {
+    "id": "product-038",
+    "slug": "product-038-ground-chakkar-big",
+    "categoryId": "ground-chakkars",
+    "name": {
+      "ta": "சக்கரம் பெரியது",
+      "en": "Ground Chakkar Big"
+    },
+    "sourceName": "Ground Chakkar Big",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 65,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 38,
+    "sourceReference": "sheet-row-038"
+  },
+  {
+    "id": "product-039",
+    "slug": "product-039-ground-chakkar-ashoka",
+    "categoryId": "ground-chakkars",
+    "name": {
+      "ta": "சக்கரம் அசோகா",
+      "en": "Ground Chakkar Ashoka"
+    },
+    "sourceName": "Ground Chakkar Ashoka",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 101,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 39,
+    "sourceReference": "sheet-row-039"
+  },
+  {
+    "id": "product-040",
+    "slug": "product-040-ground-chakkar-special",
+    "categoryId": "ground-chakkars",
+    "name": {
+      "ta": "சக்கரம் ஸ்பெஷல்",
+      "en": "Ground Chakkar Special"
+    },
+    "sourceName": "Ground Chakkar Special",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 169,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 40,
+    "sourceReference": "sheet-row-040"
+  },
+  {
+    "id": "product-041",
+    "slug": "product-041-ground-chakkar-deluxe",
+    "categoryId": "ground-chakkars",
+    "name": {
+      "ta": "சக்கரம் டீலக்ஸ்",
+      "en": "Ground Chakkar Deluxe"
+    },
+    "sourceName": "Ground Chakkar Deluxe",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 169,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 41,
+    "sourceReference": "sheet-row-041"
+  },
+  {
+    "id": "product-042",
+    "slug": "product-042-ground-chakkar-super",
+    "categoryId": "ground-chakkars",
+    "name": {
+      "ta": "சக்கரம் சூப்பர்",
+      "en": "Ground Chakkar Super"
+    },
+    "sourceName": "Ground Chakkar Super",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 325,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 42,
+    "sourceReference": "sheet-row-042"
+  },
+  {
+    "id": "product-043",
+    "slug": "product-043-7-cm-electric-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "7 CM கம்பி தூசு",
+      "en": "7 cm Electric Sparklers"
+    },
+    "sourceName": "7 cm Electric Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 9,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 43,
+    "sourceReference": "sheet-row-043"
+  },
+  {
+    "id": "product-044",
+    "slug": "product-044-7-cm-colour-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "7 CM கம்பி கலர்",
+      "en": "7 cm Colour Sparklers"
+    },
+    "sourceName": "7 cm Colour Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 12,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 44,
+    "sourceReference": "sheet-row-044"
+  },
+  {
+    "id": "product-045",
+    "slug": "product-045-10-cm-electric-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "10 CM கம்பி தூசு",
+      "en": "10 cm Electric Sparklers"
+    },
+    "sourceName": "10 cm Electric Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 26,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 45,
+    "sourceReference": "sheet-row-045"
+  },
+  {
+    "id": "product-046",
+    "slug": "product-046-10-cm-colour-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "10 CM கம்பி கலர்",
+      "en": "10 cm Colour Sparklers"
+    },
+    "sourceName": "10 cm Colour Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 29,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 46,
+    "sourceReference": "sheet-row-046"
+  },
+  {
+    "id": "product-047",
+    "slug": "product-047-12-cm-electric-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "12 CM கம்பி தூசு",
+      "en": "12 cm Electric Sparklers"
+    },
+    "sourceName": "12 cm Electric Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 39,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 47,
+    "sourceReference": "sheet-row-047"
+  },
+  {
+    "id": "product-048",
+    "slug": "product-048-12-cm-colour-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "12 CM கம்பி கலர்",
+      "en": "12 cm Colour Sparklers"
+    },
+    "sourceName": "12 cm Colour Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 46,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 48,
+    "sourceReference": "sheet-row-048"
+  },
+  {
+    "id": "product-049",
+    "slug": "product-049-15-cm-electric-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "15 CM கம்பி தூசு",
+      "en": "15 cm Electric Sparklers"
+    },
+    "sourceName": "15 cm Electric Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 72,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 49,
+    "sourceReference": "sheet-row-049"
+  },
+  {
+    "id": "product-050",
+    "slug": "product-050-15-cm-colour-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "15 CM கம்பி கலர்",
+      "en": "15 cm Colour Sparklers"
+    },
+    "sourceName": "15 cm Colour Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 78,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 50,
+    "sourceReference": "sheet-row-050"
+  },
+  {
+    "id": "product-051",
+    "slug": "product-051-15-cm-green-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "15 CM கம்பி பச்சை",
+      "en": "15 cm Green Sparklers"
+    },
+    "sourceName": "15 cm Green Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 85,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 51,
+    "sourceReference": "sheet-row-051"
+  },
+  {
+    "id": "product-052",
+    "slug": "product-052-15-cm-red-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "15 CM கம்பி சிவப்பு",
+      "en": "15 cm Red Sparklers"
+    },
+    "sourceName": "15 cm Red Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 85,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 52,
+    "sourceReference": "sheet-row-052"
+  },
+  {
+    "id": "product-053",
+    "slug": "product-053-30-cm-electric-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "30 CM கம்பி தூசு",
+      "en": "30 cm Electric Sparklers"
+    },
+    "sourceName": "30 cm Electric Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 72,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 53,
+    "sourceReference": "sheet-row-053"
+  },
+  {
+    "id": "product-054",
+    "slug": "product-054-30-cm-colour-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "30 CM கம்பி கல்கபு",
+      "en": "30 cm Colour Sparklers"
+    },
+    "sourceName": "30 cm Colour Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 85,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 54,
+    "sourceReference": "sheet-row-054"
+  },
+  {
+    "id": "product-055",
+    "slug": "product-055-50-cm-electric-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "50 CM கம்பி தூசு",
+      "en": "50 cm Electric Sparklers"
+    },
+    "sourceName": "50 cm Electric Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 78,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 55,
+    "sourceReference": "sheet-row-055"
+  },
+  {
+    "id": "product-056",
+    "slug": "product-056-50-cm-colour-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "50 CM கம்பி கலர்",
+      "en": "50 cm Colour Sparklers"
+    },
+    "sourceName": "50 cm Colour Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 221,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 56,
+    "sourceReference": "sheet-row-056"
+  },
+  {
+    "id": "product-057",
+    "slug": "product-057-50-cm-5-in-1-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "50 CM கம்பி மல்டிமிக்ஸ்",
+      "en": "50 cm 5-in-1 Sparklers"
+    },
+    "sourceName": "50 cm 5-in-1 Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 286,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 57,
+    "sourceReference": "sheet-row-057"
+  },
+  {
+    "id": "product-058",
+    "slug": "product-058-75-cm-sparklers",
+    "categoryId": "sparklers",
+    "name": {
+      "ta": "75 CM கம்பி",
+      "en": "75 cm Sparklers"
+    },
+    "sourceName": "75 cm Sparklers",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 325,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 58,
+    "sourceReference": "sheet-row-058"
+  },
+  {
+    "id": "product-059",
+    "slug": "product-059-250-paper-shot",
+    "categoryId": "paper-shots",
+    "name": {
+      "ta": "250 கிராம் பேப்பர்",
+      "en": "250 Paper Shot"
+    },
+    "sourceName": "250 Paper Shot",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Piece"
+    },
+    "rate": 65,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 59,
+    "sourceReference": "sheet-row-059"
+  },
+  {
+    "id": "product-060",
+    "slug": "product-060-500-paper-shot",
+    "categoryId": "paper-shots",
+    "name": {
+      "ta": "500 கிராம் பேப்பர்",
+      "en": "500 Paper Shot"
+    },
+    "sourceName": "500 Paper Shot",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Piece"
+    },
+    "rate": 117,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 60,
+    "sourceReference": "sheet-row-060"
+  },
+  {
+    "id": "product-061",
+    "slug": "product-061-1-kg-paper-shot",
+    "categoryId": "paper-shots",
+    "name": {
+      "ta": "1 கிலோ பேப்பர்",
+      "en": "1 kg Paper Shot"
+    },
+    "sourceName": "1 kg Paper Shot",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Piece"
+    },
+    "rate": 195,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 61,
+    "sourceReference": "sheet-row-061"
+  },
+  {
+    "id": "product-062",
+    "slug": "product-062-2-kg-paper-shot",
+    "categoryId": "paper-shots",
+    "name": {
+      "ta": "2 கிலோ பேப்பர்",
+      "en": "2 kg Paper Shot"
+    },
+    "sourceName": "2 kg Paper Shot",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Piece"
+    },
+    "rate": 325,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 62,
+    "sourceReference": "sheet-row-062"
+  },
+  {
+    "id": "product-063",
+    "slug": "product-063-3-kg-paper-shot",
+    "categoryId": "paper-shots",
+    "name": {
+      "ta": "3 கிலோ பேப்பர்",
+      "en": "3 kg Paper Shot"
+    },
+    "sourceName": "3 kg Paper Shot",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Piece"
+    },
+    "rate": 520,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 63,
+    "sourceReference": "sheet-row-063"
+  },
+  {
+    "id": "product-064",
+    "slug": "product-064-12-shot-multi-shot",
+    "categoryId": "multi-shots",
+    "name": {
+      "ta": "12 எஸ். மல்டிகலர் (N4)",
+      "en": "12 Shot Multi Shot (NA)"
+    },
+    "sourceName": "12 Shot Multi Shot (NA)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 260,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 64,
+    "sourceReference": "sheet-row-064"
+  },
+  {
+    "id": "product-065",
+    "slug": "product-065-12-shot-multi-shot",
+    "categoryId": "multi-shots",
+    "name": {
+      "ta": "12 எஸ். மல்டிகலர் (BS)",
+      "en": "12 Shot Multi Shot (B.S.)"
+    },
+    "sourceName": "12 Shot Multi Shot (B.S.)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 260,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 65,
+    "sourceReference": "sheet-row-065"
+  },
+  {
+    "id": "product-066",
+    "slug": "product-066-25-shot-multi-shot",
+    "categoryId": "multi-shots",
+    "name": {
+      "ta": "25 எஸ். கிராக்கின்",
+      "en": "25 Shot Multi Shot"
+    },
+    "sourceName": "25 Shot Multi Shot",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 325,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 66,
+    "sourceReference": "sheet-row-066"
+  },
+  {
+    "id": "product-067",
+    "slug": "product-067-30-shot-multi-shot",
+    "categoryId": "multi-shots",
+    "name": {
+      "ta": "30 எஸ். மல்டிகலர் (RJ)",
+      "en": "30 Shot Multi Shot (R.J.)"
+    },
+    "sourceName": "30 Shot Multi Shot (R.J.)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 585,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 67,
+    "sourceReference": "sheet-row-067"
+  },
+  {
+    "id": "product-068",
+    "slug": "product-068-30-shot-crackling-multi-shot",
+    "categoryId": "multi-shots",
+    "name": {
+      "ta": "30 எஸ். மல்டிகலர் கிராக்கின் (B.S)",
+      "en": "30 Shot Crackling Multi Shot (B.S.)"
+    },
+    "sourceName": "30 Shot Crackling Multi Shot (B.S.)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 650,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 68,
+    "sourceReference": "sheet-row-068"
+  },
+  {
+    "id": "product-069",
+    "slug": "product-069-60-shot-multi-shot",
+    "categoryId": "multi-shots",
+    "name": {
+      "ta": "60 எஸ். மல்டிகலர் (RJ)",
+      "en": "60 Shot Multi Shot (R.J.)"
+    },
+    "sourceName": "60 Shot Multi Shot (R.J.)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 1040,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 69,
+    "sourceReference": "sheet-row-069"
+  },
+  {
+    "id": "product-070",
+    "slug": "product-070-60-shot-multi-shot",
+    "categoryId": "multi-shots",
+    "name": {
+      "ta": "60 எஸ். மல்டிகலர் (Pk)",
+      "en": "60 Shot Multi Shot (PK)"
+    },
+    "sourceName": "60 Shot Multi Shot (PK)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 1170,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 70,
+    "sourceReference": "sheet-row-070"
+  },
+  {
+    "id": "product-071",
+    "slug": "product-071-60-shot-crackling-multi-shot",
+    "categoryId": "multi-shots",
+    "name": {
+      "ta": "60 எஸ். மல்டிகலர் கிராக்கின் (Bs)",
+      "en": "60 Shot Crackling Multi Shot (B.S.)"
+    },
+    "sourceName": "60 Shot Crackling Multi Shot (B.S.)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 1170,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 71,
+    "sourceReference": "sheet-row-071"
+  },
+  {
+    "id": "product-072",
+    "slug": "product-072-60-shot-crackling-multi-shot",
+    "categoryId": "multi-shots",
+    "name": {
+      "ta": "60 எஸ். மல்டிகலர் கிராக்கின் (INF)",
+      "en": "60 Shot Crackling Multi Shot (NF)"
+    },
+    "sourceName": "60 Shot Crackling Multi Shot (NF)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 1625,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 72,
+    "sourceReference": "sheet-row-072"
+  },
+  {
+    "id": "product-073",
+    "slug": "product-073-120-shot-multi-shot",
+    "categoryId": "multi-shots",
+    "name": {
+      "ta": "120 எஸ். மல்டிகலர் (SKY)",
+      "en": "120 Shot Multi Shot (SKY)"
+    },
+    "sourceName": "120 Shot Multi Shot (SKY)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 2080,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 73,
+    "sourceReference": "sheet-row-073"
+  },
+  {
+    "id": "product-074",
+    "slug": "product-074-120-shot-crackling-multi-shot",
+    "categoryId": "multi-shots",
+    "name": {
+      "ta": "120 எஸ். மல்டிகலர் கிராக்கின் (S.W)",
+      "en": "120 Shot Crackling Multi Shot (S.W.)"
+    },
+    "sourceName": "120 Shot Crackling Multi Shot (S.W.)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 2210,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 74,
+    "sourceReference": "sheet-row-074"
+  },
+  {
+    "id": "product-075",
+    "slug": "product-075-120-shot-crackling-multi-shot",
+    "categoryId": "multi-shots",
+    "name": {
+      "ta": "120 எஸ். மல்டிகலர் கிராக்கின் (B.S)",
+      "en": "120 Shot Crackling Multi Shot (B.S.)"
+    },
+    "sourceName": "120 Shot Crackling Multi Shot (B.S.)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 2360,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 75,
+    "sourceReference": "sheet-row-075"
+  },
+  {
+    "id": "product-076",
+    "slug": "product-076-120-shot-crackling-multi-shot",
+    "categoryId": "multi-shots",
+    "name": {
+      "ta": "120 எஸ். மல்டிகலர் கிராக்கின் (INF)",
+      "en": "120 Shot Crackling Multi Shot (NF)"
+    },
+    "sourceName": "120 Shot Crackling Multi Shot (NF)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 2990,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 76,
+    "sourceReference": "sheet-row-076"
+  },
+  {
+    "id": "product-077",
+    "slug": "product-077-240-shot-crackling-multi-shot",
+    "categoryId": "multi-shots",
+    "name": {
+      "ta": "240 எஸ். மல்டிகலர் கிராக்கின்",
+      "en": "240 Shot Crackling Multi Shot"
+    },
+    "sourceName": "240 Shot Crackling Multi Shot",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 3640,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 77,
+    "sourceReference": "sheet-row-077"
+  },
+  {
+    "id": "product-078",
+    "slug": "product-078-atom-bomb",
+    "categoryId": "auto-bombs",
+    "name": {
+      "ta": "ஆட்டோ பாம்",
+      "en": "Atom Bomb"
+    },
+    "sourceName": "Atom Bomb",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 65,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 78,
+    "sourceReference": "sheet-row-078"
+  },
+  {
+    "id": "product-079",
+    "slug": "product-079-hydro-bomb",
+    "categoryId": "auto-bombs",
+    "name": {
+      "ta": "ஹைட்ரோ பாம்",
+      "en": "Hydro Bomb"
+    },
+    "sourceName": "Hydro Bomb",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 104,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 79,
+    "sourceReference": "sheet-row-079"
+  },
+  {
+    "id": "product-080",
+    "slug": "product-080-thunder-bomb",
+    "categoryId": "auto-bombs",
+    "name": {
+      "ta": "டிஜிட்டல் பாம்",
+      "en": "Thunder Bomb"
+    },
+    "sourceName": "Thunder Bomb",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 260,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 80,
+    "sourceReference": "sheet-row-080"
+  },
+  {
+    "id": "product-081",
+    "slug": "product-081-agni-bomb",
+    "categoryId": "auto-bombs",
+    "name": {
+      "ta": "அக்னி பாம்",
+      "en": "Agni Bomb"
+    },
+    "sourceName": "Agni Bomb",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 260,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 81,
+    "sourceReference": "sheet-row-081"
+  },
+  {
+    "id": "product-082",
+    "slug": "product-082-manchester-bomb",
+    "categoryId": "auto-bombs",
+    "name": {
+      "ta": "மான்ஸ்டர் பாம்",
+      "en": "Manchester Bomb"
+    },
+    "sourceName": "Manchester Bomb",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 338,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 82,
+    "sourceReference": "sheet-row-082"
+  },
+  {
+    "id": "product-083",
+    "slug": "product-083-deluxe-bomb",
+    "categoryId": "auto-bombs",
+    "name": {
+      "ta": "லேசர் பாம் (VPM)",
+      "en": "Deluxe Bomb (VPM)"
+    },
+    "sourceName": "Deluxe Bomb (VPM)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 358,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 83,
+    "sourceReference": "sheet-row-083"
+  },
+  {
+    "id": "product-084",
+    "slug": "product-084-1-inch-chota-fancy",
+    "categoryId": "fancy-single-shot",
+    "name": {
+      "ta": "1 ½\" தோட்ட பேன்சி (Vadi)",
+      "en": "1¾ inch Chota Fancy (Vadi)"
+    },
+    "sourceName": "1¾ inch Chota Fancy (Vadi)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pcs"
+    },
+    "rate": 78,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 84,
+    "sourceReference": "sheet-row-084"
+  },
+  {
+    "id": "product-085",
+    "slug": "product-085-2-inch-fancy-single",
+    "categoryId": "fancy-single-shot",
+    "name": {
+      "ta": "2\" பேன்சி ஷாட் (J)",
+      "en": "2 inch Fancy Single (J)"
+    },
+    "sourceName": "2 inch Fancy Single (J)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pcs"
+    },
+    "rate": 130,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 85,
+    "sourceReference": "sheet-row-085"
+  },
+  {
+    "id": "product-086",
+    "slug": "product-086-2-inch-fancy",
+    "categoryId": "fancy-single-shot",
+    "name": {
+      "ta": "2 ½\" பேன்சி (B.S)",
+      "en": "2½ inch Fancy (B.S.)"
+    },
+    "sourceName": "2½ inch Fancy (B.S.)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pcs"
+    },
+    "rate": 182,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 86,
+    "sourceReference": "sheet-row-086"
+  },
+  {
+    "id": "product-087",
+    "slug": "product-087-3-inch-fancy-single",
+    "categoryId": "fancy-single-shot",
+    "name": {
+      "ta": "3\" பேன்சி ஷாட் (B.S)",
+      "en": "3 inch Fancy Single (B.S.)"
+    },
+    "sourceName": "3 inch Fancy Single (B.S.)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pcs"
+    },
+    "rate": 260,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 87,
+    "sourceReference": "sheet-row-087"
+  },
+  {
+    "id": "product-088",
+    "slug": "product-088-3-inch-fancy-single",
+    "categoryId": "fancy-single-shot",
+    "name": {
+      "ta": "3 ½\" பேன்சி ஷாட் (பாண்டியாடி)",
+      "en": "3½ inch Fancy Single"
+    },
+    "sourceName": "3½ inch Fancy Single",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pcs"
+    },
+    "rate": 325,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 88,
+    "sourceReference": "sheet-row-088"
+  },
+  {
+    "id": "product-089",
+    "slug": "product-089-3-inch-fancy-single",
+    "categoryId": "fancy-single-shot",
+    "name": {
+      "ta": "3 ½\" பேன்சி சிங்கிள் (பிரபு)",
+      "en": "3½ inch Fancy Single (Umu)"
+    },
+    "sourceName": "3½ inch Fancy Single (Umu)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pcs"
+    },
+    "rate": 338,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 89,
+    "sourceReference": "sheet-row-089"
+  },
+  {
+    "id": "product-090",
+    "slug": "product-090-3-inch-fancy-single",
+    "categoryId": "fancy-single-shot",
+    "name": {
+      "ta": "3 ½\" பேன்சி ஷாட் (B.S)",
+      "en": "3½ inch Fancy Single (B.S.)"
+    },
+    "sourceName": "3½ inch Fancy Single (B.S.)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pcs"
+    },
+    "rate": 390,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 90,
+    "sourceReference": "sheet-row-090"
+  },
+  {
+    "id": "product-091",
+    "slug": "product-091-4-inch-fancy-single",
+    "categoryId": "fancy-single-shot",
+    "name": {
+      "ta": "4\" பேன்சி ஷாட் (NF)",
+      "en": "4 inch Fancy Single (NF)"
+    },
+    "sourceName": "4 inch Fancy Single (NF)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pcs"
+    },
+    "rate": 494,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 91,
+    "sourceReference": "sheet-row-091"
+  },
+  {
+    "id": "product-092",
+    "slug": "product-092-4-inch-panorama",
+    "categoryId": "fancy-single-shot",
+    "name": {
+      "ta": "4\" நயாகரா பால்ஸ் (NF)",
+      "en": "4 inch Panorama (NF)"
+    },
+    "sourceName": "4 inch Panorama (NF)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pcs"
+    },
+    "rate": 507,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 92,
+    "sourceReference": "sheet-row-092"
+  },
+  {
+    "id": "product-093",
+    "slug": "product-093-4-inch-butterfly",
+    "categoryId": "fancy-single-shot",
+    "name": {
+      "ta": "4\" ஃபார்போர் (B.S)",
+      "en": "4 inch Butterfly (B.S.)"
+    },
+    "sourceName": "4 inch Butterfly (B.S.)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pcs"
+    },
+    "rate": 585,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 93,
+    "sourceReference": "sheet-row-093"
+  },
+  {
+    "id": "product-094",
+    "slug": "product-094-4-inch-colourful",
+    "categoryId": "fancy-single-shot",
+    "name": {
+      "ta": "4\" வெல்டினால் காம்போ",
+      "en": "4 inch Colourful"
+    },
+    "sourceName": "4 inch Colourful",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Pcs"
+    },
+    "rate": 624,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 94,
+    "sourceReference": "sheet-row-094"
+  },
+  {
+    "id": "product-095",
+    "slug": "product-095-whistling-rocket",
+    "categoryId": "rockets",
+    "name": {
+      "ta": "பேபி ராக்கெட்",
+      "en": "Whistling Rocket"
+    },
+    "sourceName": "Whistling Rocket",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 52,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 95,
+    "sourceReference": "sheet-row-095"
+  },
+  {
+    "id": "product-096",
+    "slug": "product-096-colour-rocket",
+    "categoryId": "rockets",
+    "name": {
+      "ta": "தாரார் ராக்கெட்",
+      "en": "Colour Rocket"
+    },
+    "sourceName": "Colour Rocket",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 104,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 96,
+    "sourceReference": "sheet-row-096"
+  },
+  {
+    "id": "product-097",
+    "slug": "product-097-royal-rocket",
+    "categoryId": "rockets",
+    "name": {
+      "ta": "ஒளசில்லி ராக்கெட்",
+      "en": "Royal Rocket"
+    },
+    "sourceName": "Royal Rocket",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 156,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 97,
+    "sourceReference": "sheet-row-097"
+  },
+  {
+    "id": "product-098",
+    "slug": "product-098-2-sound-rocket",
+    "categoryId": "rockets",
+    "name": {
+      "ta": "2 கவுண்ட் ராக்கெட்",
+      "en": "2 Sound Rocket"
+    },
+    "sourceName": "2 Sound Rocket",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 195,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 98,
+    "sourceReference": "sheet-row-098"
+  },
+  {
+    "id": "product-099",
+    "slug": "product-099-whistling-rocket-special",
+    "categoryId": "rockets",
+    "name": {
+      "ta": "மியூசிக் ராக்கெட்",
+      "en": "Whistling Rocket Special"
+    },
+    "sourceName": "Whistling Rocket Special",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 234,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 99,
+    "sourceReference": "sheet-row-099"
+  },
+  {
+    "id": "product-100",
+    "slug": "product-100-colour-pencil-10-pcs",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "கன் ஸ்பெஷல் (10Pcs)",
+      "en": "Colour Pencil (10 Pcs)"
+    },
+    "sourceName": "Colour Pencil (10 Pcs)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 91,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 100,
+    "sourceReference": "sheet-row-100"
+  },
+  {
+    "id": "product-101",
+    "slug": "product-101-7-shot-10-pcs",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "7 சாட் (10Pcs)",
+      "en": "7 Shot (10 Pcs)"
+    },
+    "sourceName": "7 Shot (10 Pcs)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 286,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 101,
+    "sourceReference": "sheet-row-101"
+  },
+  {
+    "id": "product-102",
+    "slug": "product-102-jet-fountain-5-pcs",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "தோகோபோல் (5 Pcs)",
+      "en": "Jet Fountain (5 Pcs)"
+    },
+    "sourceName": "Jet Fountain (5 Pcs)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 130,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 102,
+    "sourceReference": "sheet-row-102"
+  },
+  {
+    "id": "product-103",
+    "slug": "product-103-helicopter-5-pcs",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "மேவி ஸ்பெஷல் (5 Pcs)",
+      "en": "Helicopter (5 Pcs)"
+    },
+    "sourceName": "Helicopter (5 Pcs)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 247,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 103,
+    "sourceReference": "sheet-row-103"
+  },
+  {
+    "id": "product-104",
+    "slug": "product-104-colour-butterfly-5-pcs",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "காசல் ஸ்பெஷல் (5Pcs)",
+      "en": "Colour Butterfly (5 Pcs)"
+    },
+    "sourceName": "Colour Butterfly (5 Pcs)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 117,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 104,
+    "sourceReference": "sheet-row-104"
+  },
+  {
+    "id": "product-105",
+    "slug": "product-105-lemon-tree-3-pcs",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "வைட்டிங் கேக் பாக்ஸ் (3Pcs)",
+      "en": "Lemon Tree (3 Pcs)"
+    },
+    "sourceName": "Lemon Tree (3 Pcs)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 130,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 105,
+    "sourceReference": "sheet-row-105"
+  },
+  {
+    "id": "product-106",
+    "slug": "product-106-butterfly-7-pcs",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "பட்டர் பிளை (7Pcs)",
+      "en": "Butterfly (7 Pcs)"
+    },
+    "sourceName": "Butterfly (7 Pcs)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 260,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 106,
+    "sourceReference": "sheet-row-106"
+  },
+  {
+    "id": "product-107",
+    "slug": "product-107-top-gun-10-pcs",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "பட்டாம்பூச்சி (10Pcs)",
+      "en": "Top Gun (10 Pcs)"
+    },
+    "sourceName": "Top Gun (10 Pcs)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 260,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 107,
+    "sourceReference": "sheet-row-107"
+  },
+  {
+    "id": "product-108",
+    "slug": "product-108-hydro",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "லூப்னா (Sutharsun)",
+      "en": "Hydro (Sutharsun)"
+    },
+    "sourceName": "Hydro (Sutharsun)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 247,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 108,
+    "sourceReference": "sheet-row-108"
+  },
+  {
+    "id": "product-109",
+    "slug": "product-109-colour-smoke-5-pcs",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "ஒலி கேக் (5Pcs)",
+      "en": "Colour Smoke (5 Pcs)"
+    },
+    "sourceName": "Colour Smoke (5 Pcs)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 286,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 109,
+    "sourceReference": "sheet-row-109"
+  },
+  {
+    "id": "product-110",
+    "slug": "product-110-palm-special-1-pc",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "பாஸ் ஸ்பெஷல் (1 Pcs)",
+      "en": "Palm Special (1 Pc)"
+    },
+    "sourceName": "Palm Special (1 Pc)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 78,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 110,
+    "sourceReference": "sheet-row-110"
+  },
+  {
+    "id": "product-111",
+    "slug": "product-111-asoka-pillar-5-pcs",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "அக்னி மிஸ்சில் (5Pcs)",
+      "en": "Asoka Pillar (5 Pcs)"
+    },
+    "sourceName": "Asoka Pillar (5 Pcs)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 325,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 111,
+    "sourceReference": "sheet-row-111"
+  },
+  {
+    "id": "product-112",
+    "slug": "product-112-electrical-wheel-5-pcs",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "லைட்னிங் மேக் (5Pcs)",
+      "en": "Electrical Wheel (5 Pcs)"
+    },
+    "sourceName": "Electrical Wheel (5 Pcs)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 195,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 112,
+    "sourceReference": "sheet-row-112"
+  },
+  {
+    "id": "product-113",
+    "slug": "product-113-holi-bar",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "ஸ்டார் பாய்",
+      "en": "Holi Bar"
+    },
+    "sourceName": "Holi Bar",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 221,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 113,
+    "sourceReference": "sheet-row-113"
+  },
+  {
+    "id": "product-114",
+    "slug": "product-114-whistling-flower-pot",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "விண்ட் மில் பிரண்ட்",
+      "en": "Whistling Flower Pot"
+    },
+    "sourceName": "Whistling Flower Pot",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 364,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 114,
+    "sourceReference": "sheet-row-114"
+  },
+  {
+    "id": "product-115",
+    "slug": "product-115-drone",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "ரோலர்",
+      "en": "Drone"
+    },
+    "sourceName": "Drone",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 390,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 115,
+    "sourceReference": "sheet-row-115"
+  },
+  {
+    "id": "product-116",
+    "slug": "product-116-pop-pop",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "பாம் பாம்",
+      "en": "Pop Pop"
+    },
+    "sourceName": "Pop Pop",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 260,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 116,
+    "sourceReference": "sheet-row-116"
+  },
+  {
+    "id": "product-117",
+    "slug": "product-117-apple-flower",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "ஆபர் பிளார்",
+      "en": "Apple Flower"
+    },
+    "sourceName": "Apple Flower",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 598,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 117,
+    "sourceReference": "sheet-row-117"
+  },
+  {
+    "id": "product-118",
+    "slug": "product-118-color-blossom",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "கலர் பிளார்ஸ்",
+      "en": "Color Blossom"
+    },
+    "sourceName": "Color Blossom",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 312,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 118,
+    "sourceReference": "sheet-row-118"
+  },
+  {
+    "id": "product-119",
+    "slug": "product-119-golden-rain",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "பாண்டு லைட்",
+      "en": "Golden Rain"
+    },
+    "sourceName": "Golden Rain",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 936,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 119,
+    "sourceReference": "sheet-row-119"
+  },
+  {
+    "id": "product-120",
+    "slug": "product-120-rainbow-jet-special",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "பாண்டு லைட் ஸ்பெஷல்",
+      "en": "Rainbow Jet Special"
+    },
+    "sourceName": "Rainbow Jet Special",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 546,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 120,
+    "sourceReference": "sheet-row-120"
+  },
+  {
+    "id": "product-121",
+    "slug": "product-121-colour-waterfall",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "கனி கேக்",
+      "en": "Colour Waterfall"
+    },
+    "sourceName": "Colour Waterfall",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 286,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 121,
+    "sourceReference": "sheet-row-121"
+  },
+  {
+    "id": "product-122",
+    "slug": "product-122-whistling-flower-special",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "கலர்ஃபுல் சூப்பர் ஸ்பெஷல்",
+      "en": "Whistling Flower Special"
+    },
+    "sourceName": "Whistling Flower Special",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 390,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 122,
+    "sourceReference": "sheet-row-122"
+  },
+  {
+    "id": "product-123",
+    "slug": "product-123-magic-fountain",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "மோடர் கேக்",
+      "en": "Magic Fountain"
+    },
+    "sourceName": "Magic Fountain",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 793,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 123,
+    "sourceReference": "sheet-row-123"
+  },
+  {
+    "id": "product-124",
+    "slug": "product-124-aurora-cake",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "ஆலாங்கா கேக்",
+      "en": "Aurora Cake"
+    },
+    "sourceName": "Aurora Cake",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 520,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 124,
+    "sourceReference": "sheet-row-124"
+  },
+  {
+    "id": "product-125",
+    "slug": "product-125-colour-fountain",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "வானவில் வீல் (Ajantha)",
+      "en": "Colour Fountain (Ajanta)"
+    },
+    "sourceName": "Colour Fountain (Ajanta)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 260,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 125,
+    "sourceReference": "sheet-row-125"
+  },
+  {
+    "id": "product-126",
+    "slug": "product-126-star-fountain",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "காட் பிளார்ஸ் (Starvell)",
+      "en": "Star Fountain (Starvell)"
+    },
+    "sourceName": "Star Fountain (Starvell)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 260,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 126,
+    "sourceReference": "sheet-row-126"
+  },
+  {
+    "id": "product-127",
+    "slug": "product-127-mega-flower",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "மணி வீல்ஸ் (Starvell)",
+      "en": "Mega Flower (Starvell)"
+    },
+    "sourceName": "Mega Flower (Starvell)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 312,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 127,
+    "sourceReference": "sheet-row-127"
+  },
+  {
+    "id": "product-128",
+    "slug": "product-128-roadside-fountain",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "ரோட் ஓரஸ் (Starvell)",
+      "en": "Roadside Fountain (Starvell)"
+    },
+    "sourceName": "Roadside Fountain (Starvell)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 325,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 128,
+    "sourceReference": "sheet-row-128"
+  },
+  {
+    "id": "product-129",
+    "slug": "product-129-colour-fountain-special",
+    "categoryId": "fancy-varieties",
+    "name": {
+      "ta": "பிராட் டம்பிலர் (Starvell)",
+      "en": "Colour Fountain Special (Starvell)"
+    },
+    "sourceName": "Colour Fountain Special (Starvell)",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 416,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 129,
+    "sourceReference": "sheet-row-129"
+  },
+  {
+    "id": "product-130",
+    "slug": "product-130-21-item-gift-box",
+    "categoryId": "gift-boxes",
+    "name": {
+      "ta": "21 வகையான பேக்கெட் பட்டாசுகள்",
+      "en": "21 Item Gift Box"
+    },
+    "sourceName": "21 Item Gift Box",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 780,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 130,
+    "sourceReference": "sheet-row-130"
+  },
+  {
+    "id": "product-131",
+    "slug": "product-131-31-item-gift-box",
+    "categoryId": "gift-boxes",
+    "name": {
+      "ta": "31 வகையான பேக்கெட் பட்டாசுகள்",
+      "en": "31 Item Gift Box"
+    },
+    "sourceName": "31 Item Gift Box",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 910,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 131,
+    "sourceReference": "sheet-row-131"
+  },
+  {
+    "id": "product-132",
+    "slug": "product-132-37-item-gift-box",
+    "categoryId": "gift-boxes",
+    "name": {
+      "ta": "37 வகையான பேக்கெட் பட்டாசுகள்",
+      "en": "37 Item Gift Box"
+    },
+    "sourceName": "37 Item Gift Box",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 1225,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 132,
+    "sourceReference": "sheet-row-132"
+  },
+  {
+    "id": "product-133",
+    "slug": "product-133-41-item-gift-box",
+    "categoryId": "gift-boxes",
+    "name": {
+      "ta": "41 வகையான பேக்கெட் மேக்சி",
+      "en": "41 Item Gift Box"
+    },
+    "sourceName": "41 Item Gift Box",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 1430,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 133,
+    "sourceReference": "sheet-row-133"
+  },
+  {
+    "id": "product-134",
+    "slug": "product-134-54-item-vip-gift-box",
+    "categoryId": "gift-boxes",
+    "name": {
+      "ta": "54 வகையான VIP பட்டாசுகள்",
+      "en": "54 Item VIP Gift Box"
+    },
+    "sourceName": "54 Item VIP Gift Box",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 1950,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 134,
+    "sourceReference": "sheet-row-134"
+  },
+  {
+    "id": "product-135",
+    "slug": "product-135-63-item-vip-gift-box",
+    "categoryId": "gift-boxes",
+    "name": {
+      "ta": "63 வகையான VIP பட்டாசுகள்",
+      "en": "63 Item VIP Gift Box"
+    },
+    "sourceName": "63 Item VIP Gift Box",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 2405,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 135,
+    "sourceReference": "sheet-row-135"
+  },
+  {
+    "id": "product-136",
+    "slug": "product-136-vip-combo-20-items",
+    "categoryId": "gift-boxes",
+    "name": {
+      "ta": "VIP Compo பாக்கெட் (20 வெடி)",
+      "en": "VIP Combo — 20 Items"
+    },
+    "sourceName": "VIP Combo — 20 Items",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 3900,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 136,
+    "sourceReference": "sheet-row-136"
+  },
+  {
+    "id": "product-137",
+    "slug": "product-137-vip-combo-30-items",
+    "categoryId": "gift-boxes",
+    "name": {
+      "ta": "VIP Compo பாக்கெட் (30 வெடி)",
+      "en": "VIP Combo — 30 Items"
+    },
+    "sourceName": "VIP Combo — 30 Items",
+    "sourceTextVerified": false,
+    "unit": {
+      "quantity": 1,
+      "type": "Box"
+    },
+    "rate": 6500,
+    "currency": "INR",
+    "image": null,
+    "featured": false,
+    "searchAliases": [],
+    "displayOrder": 137,
+    "sourceReference": "sheet-row-137"
+  }
+]

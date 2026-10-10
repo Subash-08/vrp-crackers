@@ -1,0 +1,197 @@
+[
+  {
+    "id": "kuruvi-vedi",
+    "slug": "kuruvi-vedi",
+    "name": {
+      "ta": "குழந்தை வெடி",
+      "en": "Child Crackers (Kuruvi)"
+    },
+    "sourceName": "குருவி வெடி",
+    "icon": "zap",
+    "color": "#cc6b8a",
+    "bg": "#fceaf0",
+    "displayOrder": 1
+  },
+  {
+    "id": "giant-crackers",
+    "slug": "giant-crackers",
+    "name": {
+      "ta": "சர வெடிகள்",
+      "en": "Chorsa / Giant Crackers"
+    },
+    "sourceName": "ஜெயண்ட் வெடிகள்",
+    "icon": "zap",
+    "color": "#d64d45",
+    "bg": "#fff0e9",
+    "displayOrder": 2
+  },
+  {
+    "id": "chorsa",
+    "slug": "chorsa",
+    "name": {
+      "ta": "சாட்டை",
+      "en": "Twinkling Whip"
+    },
+    "sourceName": "சார்ட்டு",
+    "icon": "zap",
+    "color": "#d26f4b",
+    "bg": "#fff1e7",
+    "displayOrder": 3
+  },
+  {
+    "id": "wala",
+    "slug": "wala",
+    "name": {
+      "ta": "வாணார்",
+      "en": "Wala / Sound Crackers"
+    },
+    "sourceName": "வாலா",
+    "icon": "zap",
+    "color": "#e8664f",
+    "bg": "#ffede7",
+    "displayOrder": 4
+  },
+  {
+    "id": "bijili",
+    "slug": "bijili",
+    "name": {
+      "ta": "பிஜிலி வெடிகள்",
+      "en": "Bijili Crackers"
+    },
+    "sourceName": "பிஜிலி வெடிகள்",
+    "icon": "zap",
+    "color": "#d95454",
+    "bg": "#fff0f0",
+    "displayOrder": 5
+  },
+  {
+    "id": "flower-pots",
+    "slug": "flower-pots",
+    "name": {
+      "ta": "பூச்சட்டிகள்",
+      "en": "Flower Pots"
+    },
+    "sourceName": "பூச்சட்டிகள்",
+    "icon": "flame",
+    "color": "#e8664f",
+    "bg": "#ffede7",
+    "displayOrder": 6
+  },
+  {
+    "id": "ground-chakkars",
+    "slug": "ground-chakkars",
+    "name": {
+      "ta": "சக்கரங்கள்",
+      "en": "Ground Chakkars"
+    },
+    "sourceName": "சக்கரங்கள்",
+    "icon": "orbit",
+    "color": "#5b9c87",
+    "bg": "#e7f5ee",
+    "displayOrder": 7
+  },
+  {
+    "id": "sparklers",
+    "slug": "sparklers",
+    "name": {
+      "ta": "வண்ணபுஷ்வாணங்கள்",
+      "en": "Sparklers / Pushwanam"
+    },
+    "sourceName": "மத்தாப்புக்கள்",
+    "icon": "sparkles",
+    "color": "#d69c20",
+    "bg": "#fff5d9",
+    "displayOrder": 8
+  },
+  {
+    "id": "paper-shots",
+    "slug": "paper-shots",
+    "name": {
+      "ta": "பேப்பர் வெடிகள்",
+      "en": "Paper Shots"
+    },
+    "sourceName": "பேப்பர் வெடிகள்",
+    "icon": "party",
+    "color": "#ad79b9",
+    "bg": "#f5edfa",
+    "displayOrder": 9
+  },
+  {
+    "id": "multi-shots",
+    "slug": "multi-shots",
+    "name": {
+      "ta": "மல்டிகலர்ஷாட்",
+      "en": "Multi Shots"
+    },
+    "sourceName": "மல்டிஷாட்",
+    "icon": "party",
+    "color": "#ed9465",
+    "bg": "#fff0e5",
+    "displayOrder": 10
+  },
+  {
+    "id": "auto-bombs",
+    "slug": "auto-bombs",
+    "name": {
+      "ta": "ஆட்டோ பாம் வெடிகள்",
+      "en": "Auto Bomb Crackers"
+    },
+    "sourceName": "ஆட்டோ பாம் வெடிகள்",
+    "icon": "flame",
+    "color": "#d65343",
+    "bg": "#ffebe7",
+    "displayOrder": 11
+  },
+  {
+    "id": "fancy-single-shot",
+    "slug": "fancy-single-shot",
+    "name": {
+      "ta": "பேன்சி சிங்கிள் ஷாட்",
+      "en": "Fancy Single Shot"
+    },
+    "sourceName": "பேன்சி சிங்கிள் ஷாட்",
+    "icon": "star",
+    "color": "#8d75bb",
+    "bg": "#f2edfb",
+    "displayOrder": 12
+  },
+  {
+    "id": "rockets",
+    "slug": "rockets",
+    "name": {
+      "ta": "ராக்கெட்",
+      "en": "Rockets"
+    },
+    "sourceName": "ராக்கெட்",
+    "icon": "rocket",
+    "color": "#7094c4",
+    "bg": "#edf3fc",
+    "displayOrder": 13
+  },
+  {
+    "id": "fancy-varieties",
+    "slug": "fancy-varieties",
+    "name": {
+      "ta": "பேன்சி பாக்ஸ்",
+      "en": "Fancy Varieties"
+    },
+    "sourceName": "பேன்சி ரகங்கள்",
+    "icon": "star",
+    "color": "#ad79b9",
+    "bg": "#f5edfa",
+    "displayOrder": 14
+  },
+  {
+    "id": "gift-boxes",
+    "slug": "gift-boxes",
+    "name": {
+      "ta": "கிப்ட் பாக்ஸ்",
+      "en": "Gift Boxes"
+    },
+    "sourceName": "கிஃப்ட் பாக்ஸ்கள்",
+    "icon": "gift",
+    "color": "#65a0b1",
+    "bg": "#e8f5f7",
+    "displayOrder": 15
+  }
+]
