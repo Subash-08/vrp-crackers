@@ -34,7 +34,7 @@ Recommended: 900 × 900 px, product centred, neutral background, under 180 KB.
 
 | File name | Tamil name | English name | Unit | Final rate |
 |---|---|---|---|---:|
-| `product-015.webp` | 1 ½ அடி சாட்டை | 3½ ft Chorsa | 1 Box | ₹52 |
+| `product-015.webp` | 1 ½ அடி சாட்டை | 1½ ft Chorsa | 1 Box | ₹52 |
 | `product-016.webp` | 4 அடி சாட்டை | 4 ft Chorsa | 1 Box | ₹117 |
 
 ## வாணார் — Wala / Sound Crackers (7)
